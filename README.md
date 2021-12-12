@@ -104,4 +104,3 @@ Let's say we detect a subtour with 3 points: x(3,7), x(7,18), x(3,18) (which is 
 
 This stops all 3 journeys being active at the same time and thus eliminates the subtour. Rinse and repeat.
 
-That's all for now!
